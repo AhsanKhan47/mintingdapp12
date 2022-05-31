@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x970657E7aB4A46E0D539b5d4DdE74E340b3A8BDF",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x970657E7aB4A46E0D539b5d4DdE74E340b3A8BDF",
+  "NETWORK": {
+    "NAME": "Ethereum Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cyclop Town Wtf",
+  "SYMBOL": "CTW",
+  "MAX_SUPPLY": 6900,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cycloptown-wtf",
+  "SHOW_BACKGROUND": true
+}
